@@ -5,7 +5,7 @@
     location: "Unilag",
     price: 2500,
     availableInventory: 5,
-    image: "static/images/artcw2.jpg",
+    image: "/static/images/artcw2.jpg",
   },
   {
     id: 102,
@@ -13,7 +13,7 @@
     location: "Oworo",
     price: 5500,
     availableInventory: 5,
-    image: "static/images/math.png",
+    image: "/static/images/math.png",
   },
   {
     id: 103,
@@ -21,7 +21,7 @@
     location: "Yaba",
     price: 8500,
     availableInventory: 8,
-    image: "static/images/ict.jpg",
+    image: "/static/images/ict.jpg",
   },
   {
     id: 104,
@@ -29,7 +29,7 @@
     location: "Victoria Island",
     price: 5500,
     availableInventory: 10,
-    image: "static/images/english.jpg",
+    image: "/static/images/english.jpg",
   },
   {
     id: 105,
@@ -37,7 +37,7 @@
     location: "Badagry",
     price: 4250,
     availableInventory: 6,
-    image: "staticimages\french.jpg",
+    image: "/static/images/french.jpg",
   },
   {
     id: 106,
@@ -45,7 +45,7 @@
     location: "Gbagada",
     price: 3000,
     availableInventory: 5,
-    image: "images/geo.jpg",
+    image: "/static/images/geography.jpg",
   },
   {
     id: 107,
@@ -53,7 +53,7 @@
     location: "Lasu",
     price: 4000,
     availableInventory: 5,
-    image: "images/lit.jpg",
+    image: "/static/images/literature.jpg",
   },
   {
     id: 108,
@@ -61,7 +61,7 @@
     location: "Walter Carrington",
     price: 4550,
     availableInventory: 9,
-    image: "images/physics.jpg",
+    image: "/static/images/physics.jpg",
   },
   {
     id: 109,
@@ -69,7 +69,7 @@
     location: "Lagoon front",
     price: 6300,
     availableInventory: 5,
-    image: "images/chem.jpg",
+    image: "/static/images/chemistry.jpg",
   },
   {
     id: 110,
@@ -77,6 +77,6 @@
     location: "Museum centre",
     price: 3000,
     availableInventory: 5,
-    image: "images/music.jpg",
+    image: "/static/images/music.jpg",
   },
 ];
