@@ -1,82 +1,82 @@
 [
-  {
-    id: 101,
-    subject: "Art",
-    location: "Unilag",
-    price: 2500,
-    availableInventory: 5,
-    image: "/static/images/artcw2.jpg",
-  },
-  {
-    id: 102,
-    subject: "Math",
-    location: "Oworo",
-    price: 5500,
-    availableInventory: 5,
-    image: "/static/images/math.png",
-  },
-  {
-    id: 103,
-    subject: "ICT",
-    location: "Yaba",
-    price: 8500,
-    availableInventory: 8,
-    image: "/static/images/ict.jpg",
-  },
-  {
-    id: 104,
-    subject: "English",
-    location: "Victoria Island",
-    price: 5500,
-    availableInventory: 10,
-    image: "/static/images/english.jpg",
-  },
-  {
-    id: 105,
-    subject: "French",
-    location: "Badagry",
-    price: 4250,
-    availableInventory: 6,
-    image: "/static/images/french.jpg",
-  },
-  {
-    id: 106,
-    subject: "Geography",
-    location: "Gbagada",
-    price: 3000,
-    availableInventory: 5,
-    image: "/static/images/geography.jpg",
-  },
-  {
-    id: 107,
-    subject: "Literature",
-    location: "Lasu",
-    price: 4000,
-    availableInventory: 5,
-    image: "/static/images/literature.jpg",
-  },
-  {
-    id: 108,
-    subject: "Physics",
-    location: "Walter Carrington",
-    price: 4550,
-    availableInventory: 9,
-    image: "/static/images/physics.jpg",
-  },
-  {
-    id: 109,
-    subject: "Chemistry",
-    location: "Lagoon front",
-    price: 6300,
-    availableInventory: 5,
-    image: "/static/images/chemistry.jpg",
-  },
-  {
-    id: 110,
-    subject: "Music",
-    location: "Museum centre",
-    price: 3000,
-    availableInventory: 5,
-    image: "/static/images/music.jpg",
-  },
-];
+    {
+    "id":101 ,
+    "subject": "Art",
+    "location": "Paris",
+    "price": 500,
+    "availableInventory":5,
+    "image": "images/art.jpg"
+},
+{
+    "id":102 ,
+    "subject": "Math",
+    "location": "San Francisco",
+    "price": 550,
+    "availableInventory":5,
+    "image": "images/Math.JPEG"
+},
+{
+    "id":103 ,
+    "subject": "ICT",
+    "location": "Berlin",
+    "price": 650,
+    "availableInventory":5,
+    "image": "images/ict.jpg"
+},
+{
+    "id":104 ,
+    "subject": "English",
+    "location": "London",
+    "price": 350,
+    "availableInventory":5,
+    "image": "images/english.jpg"
+},
+{
+    "id":105 ,
+    "subject": "French",
+    "location": "Saint Tropez",
+    "price": 350,
+    "availableInventory":5,
+    "image": "images/french.jpg"
+},
+{
+    "id":106 ,
+    "subject": "Geography",
+    "location": "Amsterdam",
+    "price": 450,
+    "availableInventory":5,
+    "image": "images/geo.jpg"
+},
+{
+    "id":107 ,
+    "subject": "Literature",
+    "location": "Rome",
+    "price": 400,
+    "availableInventory":5,
+    "image": "images/lit.jpg"
+},
+{
+    "id":108 ,
+    "subject": "Physics",
+    "location": "Lisbon",
+    "price": 450,
+    "availableInventory":5,
+    "image": "images/physics.jpg"
+},
+{
+    "id":109 ,
+    "subject": "Chemistry",
+    "location": "Frankfurt",
+    "price": 550,
+    "availableInventory":5,
+    "image": "images/chem.jpg"
+},
+{
+    "id":110 ,
+    "subject": "Music",
+    "location": "Lagos",
+    "price": 300,
+    "availableInventory":5,
+    "image": "images/music.jpg"
+},
+]

@@ -90,27 +90,4 @@ img {
   height: 200px;
   width: 150px;
 }
-small {
-  font-size: 10px;
-  padding: 4px;
-}
 
-.hotpink {
-  background: rgb(109, 103, 103);
-}
-
-.green {
-  background: green;
-}
-
-.box {
-  width: 100px;
-  height: 100px;
-  border: 1px solid rgba(0, 0, 0, 0.12);
-}
-header {
-  margin-top: 40px;
-}
-span {
-  margin-right: 20px;
-}

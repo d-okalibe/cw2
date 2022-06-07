@@ -13,19 +13,6 @@
 
 <body>
     <div id="app">
-         
-      <nav class="navbar navbar-expand navbar-light bg-light">
-          <ul class="nav navbar-nav">
-              <li class="nav-item active">
-                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-              </li>
-              <li class="nav-item">
-                  <a class="nav-link" href="#">Course</a>
-              </li>
-          </ul>
-         
-      </nav>
-      
             <header>
                 <h1 v-text="sitename"></h1>
                 <button v-if="cart.length > 0" v-on:click='showCheckout'> {{cart.length}} <span
@@ -93,7 +80,7 @@
                                 </div>
                                 <hr style="width: 100%">
                                 <div class="cart__item" v-for="(item, index) in cart" :key="`cart--${index}`">
-                                    <div style="width: auto;"><img :src="item.image" alt="">{{item.image}}</div>
+                                    <div style="width: auto;"><img :src="item.image" alt=""></div>
                                     <div>{{item.subject}}</div>
                                     <div>{{item.location}}</div>
                                     <div>{{item.price}}</div>
@@ -149,7 +136,7 @@
                 }
             },
             async created() {
-                let course = await fetch("https://individualcourse2.herokuapp.com/")
+                let course = await fetch("https://individual2cw.herokuapp.com/collection/lesson")
                 let result = await course.json()
                 this.lessons = result
             },
