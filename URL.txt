@@ -1,2 +1,2 @@
-https://github.com/muiz89/CST3145CW2.git
-https://muiz-cw2.herokuapp.com/
+\https://github.com/d-okalibe/cw2.git
+https://individualcourse2.herokuapp.com/
