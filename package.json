@@ -7,20 +7,13 @@
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Daniel okoruwe",
+  "author": "",
   "license": "ISC",
+  "bugs": {},
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.1",
+    "express": "^4.17.3",
     "mongodb": "^4.4.0",
-    "mongoose": "^6.3.5",
     "nodemon": "^2.0.15"
-  },
-  "scripts": {
-    "start": "node server.js"
-  },
-  "keywords": [
-    "Daniel",
-    "Okoruwe"
-  ]
+  }
 }
